@@ -15,3 +15,9 @@ Sort Algorithm (Các thuật toán sắp xếp)
 - Thuật toán:
     - Duyệt từ phần tử đầu tiên
     - Từ phần tử thứ hai, chèn vào vị trí đúng, cứ thế đến hết mảng
+4. Sắp xếp chọn (Selection Sort)
+Thuật toán:
+- Tìm phần tử nhỏ nhất đưa vào vị trí 1
+- Tìm phần tử nhỏ tiếp theo đưa vào vị trí 2
+- ...
+
